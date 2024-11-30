@@ -21,7 +21,7 @@
 
 ## 기술 스택
 - **Frontend**: HTML, CSS, JavaScript, Mustach
-- **Backend**: Spring Boot, Java
+- **Backend**: Spring Boot, Java, Tomcat
 - **Database**: MySQL
 - **기타**: InteliJ, Git
 
